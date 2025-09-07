@@ -1,0 +1,14 @@
+article .p1 {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: black;
+    overflow: auto;
+}
+.p2 {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: black;
+    overflow: hidden;
+}

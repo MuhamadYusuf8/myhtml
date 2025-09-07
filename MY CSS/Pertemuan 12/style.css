@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    width: 400px;
+    height: 1000px;
+    background-color: blueviolet;
+    margin: auto;
+    padding: 20px;
+}
+.p1,.p2,.p3 {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    padding: 20px;
+    margin: 80px;
+}

@@ -1,0 +1,33 @@
+hr {
+    border: 5px solid red;
+}
+.lv {
+    width: 5px;
+    height: 200px;
+    border-left: 5px;
+    border-left-style:solid ;
+}
+.lv2 {
+    width: 200px;
+    border-width: 5px;
+    height: 5px;
+    border-bottom-style: double;
+    border-style: 100px;
+}
+.lv3 {
+    width: 200px;
+    border-width: 5px;
+    height: 5px;
+    border-top-style: dotted;
+}
+.lv4 {
+    width: 200px;
+    height: 200px;
+    border-right: 5px;
+    border-right-style: dashed;
+}
+.lv5 {
+    width: 200px;
+    height: 200px;
+    border: 5px solid;
+}

@@ -1,0 +1,30 @@
+/* Tag :link Berfungsi Untuk Style Default Pada Link */
+.navigasi:link {
+    color: red;
+}
+/* Tag :Visited Berfungsi Untuk Style ketika Link Sudah Pernah Dikunjungi */
+.navigasi:visited {
+    color: blue;
+}
+/* Tag :Hover Berfungsi Untuk Style Ketika Kursor Mouse Berada diatas Link */
+.navigasi:hover {
+    background-color: black;
+    color: white;
+}
+/* Tag :active Berfungsi Untuk style Ketika Link Dalam Keadaan Aktif Atau Diklik */
+.navigasi:active {
+    color: green;
+}
+ul li a:link {
+    color:red ;
+}
+ul li a:visited {
+    color: blue;
+}
+ul li a:hover {
+    background-color: black;
+    color: white;
+}
+ul li a:active {
+    color: green;
+}

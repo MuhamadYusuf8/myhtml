@@ -1,0 +1,14 @@
+body {
+    background-image: url(ai-generated-sunset-sky-background-with-tiny-clouds-and-rainbow-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    background-attachment: scroll;
+}
+.container {
+    width: 400px;
+    min-height: 400px;
+    background-image: url(OIP\ \(1\).webp);
+    background-repeat: no-repeat;
+    margin: auto;
+}
