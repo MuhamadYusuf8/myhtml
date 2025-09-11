@@ -1,0 +1,47 @@
+body {
+    background: url(pexels-iriser-1366957.jpg); /* Gunakan background yang sama */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dashboard-container {
+    background-color: rgba(255, 255, 255, 0.9); /* Tambahkan transparansi */
+    padding: 3em;
+    border-radius: 15px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+    width: 500px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+}
+
+.dashboard-container h1 {
+    color: #162938; /* Sesuaikan warna dengan tema */
+    margin-bottom: 0.5em;
+    font-size: 2.5em;
+}
+
+.dashboard-container p {
+    color: #555;
+    margin-bottom: 2em;
+    font-size: 1.2em;
+}
+
+.logout-button {
+    display: inline-block;
+    padding: 0.8em 2em;
+    background-color: #162938; /* Ganti warna agar serasi */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+    font-weight: 500;
+}
+
+.logout-button:hover {
+    background-color: #0d1e2b;
+}
